@@ -40,7 +40,7 @@ The dataset contains the following key columns:
 
 ## Dataset & Report Links
 - **Dataset:** [Paste Dataset Link Here]
-- **Power BI Report:** [Paste Report Link Here]
+- **Power BI Report:** https://app.powerbi.com/groups/me/reports/c5286847-1b21-44b2-a093-36871f92fd72/72c0b8a82eb32b3d6364?experience=power-bi
 
 ## Contributors
 - **Adarsh S Kamde**
